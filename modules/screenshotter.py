@@ -3,6 +3,8 @@ import win32ui
 import win32con
 import win32api
 
+print("[*] In Screenshot module.")
+
 # grab a handle to the main desktop window
 hdesktop = win32gui.GetDesktopWindow()
 

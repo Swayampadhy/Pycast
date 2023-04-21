@@ -6,6 +6,8 @@ import win32file
 import win32con
 import os
 
+print("[*] In File monitor module.")
+
 # these are the common temp file directories
 dirs_to_monitor = ["C:\\WINDOWS\\Temp", tempfile.gettempdir()]
 

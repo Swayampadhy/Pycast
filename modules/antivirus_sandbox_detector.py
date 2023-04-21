@@ -10,6 +10,7 @@ keystrokes = 0
 mouse_clicks = 0
 double_clicks = 0
 
+print("[*] In antivirus sandbox module.")
 
 class LASTINPUTINFO(ctypes.Structure):
     _fields_ = [("cbSize", ctypes.c_uint), ("dwTime", ctypes.c_ulong)]

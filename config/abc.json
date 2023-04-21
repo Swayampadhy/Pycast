@@ -1,8 +1,26 @@
 [
   {
+    "module": "antivirus_sandbox_detector"
+  },
+  {
     "module": "dirlister"
   },
   {
     "module": "environment"
+  },
+  {
+    "module": "file_monitor"
+  },
+  {
+    "module": "keylogger"
+  },
+  {
+    "module": "process_monitor"
+  },
+  {
+    "module": "screenshotter"
+  },
+  {
+    "module": "shellcode_executer"
   }
 ]

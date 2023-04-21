@@ -6,6 +6,7 @@ import os
 
 LOG_FILE = "process_monitor_log.csv"
 
+print("[*] In Process monitor module.")
 
 def get_process_privileges(pid):
     try:

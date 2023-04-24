@@ -1,5 +1,5 @@
 import base64
-import _ctypes
+import _Ctypes
 import urllib.request
 
 print("[*] In Shellcode module.")

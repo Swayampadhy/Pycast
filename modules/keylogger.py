@@ -1,4 +1,4 @@
-from _ctypes import *
+from _Ctypes import *
 import pythoncom
 import pyHook
 import win32clipboard

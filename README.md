@@ -1,3 +1,6 @@
 #Github-C2
 
-This is a Command and conquer project that I created which will use the github API. It will send agents to perform tasks on an infected victim through https.
+#Working:
+  The trojan placeholder file is run inside the infected system . The trojan then refers to the config file in the repo to send the corresponding trojans to the system . The trojan files are run and the data captured by them is uploaded to this repo. The corresponding data can be accessed by git pulling the repo to your local computer.
+
+

@@ -1,4 +1,4 @@
-import _Ctypes
+import _ctypes
 import random
 import time
 import sys
